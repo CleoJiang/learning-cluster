@@ -21,4 +21,3 @@ Refer to Official Document [here](http://docs.hortonworks.com/HDPDocuments/HDP2/
 * During the Customize Services step, configure 2 propertities. read [here]( http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.2.9/bk_storm-user-guide/content/storm-install-config.html)<br /> 
 (1 supervisor.childopts property<br />
 (2 worker.childopts property<br />
-
